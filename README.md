@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Pestingo/3d-button-hover-effect.git
+git clone [https://github.com/Pestingo/3d-button-hover-effect.git](https://github.com/Pestingo/Day03-Button-Effect.git)
 cd 3d-button-hover-effect
 Open the project:
 Open index.html in your preferred web browser to see the button in action.
